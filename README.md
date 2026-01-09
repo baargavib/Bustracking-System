@@ -5,33 +5,30 @@ The College Bus Tracking System is a real-time location tracking platform that a
 The system uses GPS-enabled mobile devices and Firebase Realtime Database to provide accurate, live bus location updates.
 
 🚀 Features
-👨‍🎓 Student Features
+ Student Features
+ Secure student login
+ Track assigned bus in real time
+ Search and track other buses by bus number
 
-🔐 Secure student login
+Live bus location on map
 
-🚌 Track assigned bus in real time
+ Bus arrival & delay notifications
 
-🔍 Search and track other buses by bus number
+ Admin / Management Features
 
-📍 Live bus location on map
+ Approve student accounts
 
-🔔 Bus arrival & delay notifications
+ Manage buses & routes
 
-🧑‍💼 Admin / Management Features
+ Assign drivers to buses
 
-✅ Approve student accounts
+ View live status of all buses
 
-🚌 Manage buses & routes
+ Driver Module
 
-👨‍✈️ Assign drivers to buses
+ GPS-based live location sharing
 
-📊 View live status of all buses
-
-🚍 Driver Module
-
-📡 GPS-based live location sharing
-
-🔄 Continuous updates to Firebase
+ Continuous updates to Firebase
 
 🛠️ Tech Stack
 Frontend
@@ -125,21 +122,21 @@ Smart campus initiatives
 
 Real-time fleet monitoring
 
-🌟 Future Enhancements
+ Future Enhancements
 
-🔊 Voice alerts (Tamil / English)
+ Voice alerts (Tamil / English)
 
-🌐 Multi-language support
+ Multi-language support
 
-📱 iOS app support
+ iOS app support
 
-🧭 Route optimization
+ Route optimization
 
-📈 Attendance marking via bus in-charge
+ Attendance marking via bus in-charge
 
-📡 Offline fallback using last-known location
+ Offline fallback using last-known location
 
-🏫 Academic Use
+ Academic Use
 
 This project was developed as part of a college academic project to solve real-world transportation challenges using modern technologies.
 
